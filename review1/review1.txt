@@ -3,6 +3,8 @@ Review Exercise 1
 This is a chance to work with TypeScript/ECMAScript in a mini project.
 Tackle this however you like, the point is for you to explore using the tools
 You will load up some JSON data into a type-safe structure, then sort the data and show slices of it
+you could make programatic choices or ask the user in a web page
+
 
 Details
 -------

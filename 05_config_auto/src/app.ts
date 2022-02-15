@@ -1,4 +1,4 @@
 {
-    const a = "Hello"
-    console.log(a)
+    const greet = "Hello"
+    console.log(greet)
 }
